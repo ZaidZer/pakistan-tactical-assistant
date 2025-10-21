@@ -1,0 +1,49 @@
+To analyze the soccer tactics page for the match between Pakistan and Afghanistan, we can break down the formations, player positions, team shapes, and key observations based on the provided statistics and visuals.
+
+### Formations and Player Positions
+
+1. **Pakistan Formation:**
+   - **Shape:** Likely a 4-4-2 or a variation, given the number of passes and player distribution.
+   - **Key Positions:**
+     - **Goalkeeper:** A. Faraz Gulzari
+     - **Defenders:** 4 defenders positioned across the back line, likely providing width and depth.
+     - **Midfielders:** 4 midfielders, with some possibly playing more defensively or offensively based on passing statistics.
+     - **Forwards:** 2 forwards, tasked with pressing the opposition and converting chances.
+
+2. **Afghanistan Formation:**
+   - **Shape:** May also be a 4-4-2 or similar, as indicated by their passing and defending strategies.
+   - **Key Positions:**
+     - **Goalkeeper:** Ovays Azizi
+     - **Defenders:** 4 defenders, likely focusing on maintaining a compact shape to counter Pakistan's attacks.
+     - **Midfielders:** 4 midfielders, potentially varying between attacking and defensive roles.
+     - **Forwards:** 2 forwards, likely engaging in pressing and counter-attacking.
+
+### Team Shapes and Changes
+
+- **Defensive Shape:**
+  - Both teams appear to maintain a compact shape when defending, with players staying close to one another to limit passing lanes and options for the opposing team.
+  - Afghanistan's defenders successfully dealt with crosses and shots, indicating a well-organized back line.
+
+- **Attacking Shape:**
+  - In attack, Pakistan may have shifted to a more expansive shape, utilizing the width of the field to create opportunities. This is reflected in their higher number of passes beyond the third.
+  - Afghanistan likely focused on quick transitions, using their midfielders to link up with forwards rapidly.
+
+### Key Observations
+
+1. **Passing Statistics:**
+   - Pakistan completed 45 out of 32 passes with a 71% accuracy rate, indicating a focus on maintaining possession and building from the back.
+   - The breakdown of passes beyond their own third shows a more aggressive approach to moving the ball forward, with 26 successful passes.
+
+2. **Shots Against:**
+   - Pakistan faced 24 shots, with only 3 on target, showcasing a need for better defensive coordination to limit high-quality chances.
+   - Afghanistan had 0 goals conceded, indicating a strong defensive performance.
+
+3. **Crosses Against:**
+   - Afghanistan's defenders successfully claimed or defended against several crosses, suggesting a tactical focus on aerial duels and maintaining defensive shape during set pieces.
+
+4. **Reflex Saves:**
+   - The goalkeeper for Pakistan made 3 saves, indicating moments of pressure where quick reactions were crucial.
+
+### Conclusion
+
+The match report illustrates a tactical battle between Pakistan and Afghanistan, with both teams employing structured formations and strategies to control the game. Pakistan's focus on possession and attacking play contrasts with Afghanistan's solid defensive organization and counter-attacking capability. The statistics reflect the dynamics of the match, highlighting areas for improvement, particularly for Pakistan in defense and shot conversion.

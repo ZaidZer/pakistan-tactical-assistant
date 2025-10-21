@@ -1,0 +1,25 @@
+The tactics page provides insights into the formations, player positions, and overall team shapes for both Pakistan and Afghanistan during their match.
+
+### Pakistan's Formation and Shape
+- **Formation**: Pakistan appears to utilize a 4-4-2 formation, which is a common setup that emphasizes a solid defensive structure while allowing for width in attack.
+- **Player Positions**: 
+  - Four defenders are positioned at the back, likely comprising two center-backs and two full-backs.
+  - Four midfielders are arranged across the middle, possibly with two central midfielders and two wide players.
+  - Two forwards are positioned at the front, tasked with finishing scoring opportunities.
+- **First Half Observations**: In the first half, Pakistan's attacking efforts seem limited, with only a few crosses attempted, indicating a more cautious approach.
+- **Second Half Observations**: The shape may have shifted slightly to be more aggressive, as indicated by the increase in attempts and successful crosses, suggesting a push for goals.
+
+### Afghanistan's Formation and Shape
+- **Formation**: Afghanistan also appears to adopt a 4-4-2 formation.
+- **Player Positions**:
+  - Similar to Pakistan, they have four defenders, two central midfielders, and two wide players.
+  - Their two forwards are positioned to exploit the space left by the opposition's defense.
+- **First Half Observations**: Afghanistan shows a more proactive approach in their attacking play, with more successful crosses and attempts on goal compared to Pakistan.
+- **Second Half Observations**: The data suggests an increase in successful plays, indicating effective transitions and possibly a more dynamic attacking strategy.
+
+### Key Observations
+- **Team Shapes**: Both teams maintain a compact shape defensively, which is typical for a 4-4-2 setup. This formation allows for quick transitions from defense to attack.
+- **Changes in Shape**: As the match progresses, both teams seem to adjust their shapes slightly to become more attacking, particularly in the second half where the number of successful crosses increases.
+- **Crossing Efficiency**: Pakistan's crossing success rate is notably low in the first half, while Afghanistan demonstrates a better execution of crosses, indicating a more effective wide play strategy.
+
+Overall, the match analysis highlights the tactical approaches of both teams, with Afghanistan appearing more aggressive and effective in their attacking plays, while Pakistan may need to reassess their strategy to improve their offensive capabilities.

@@ -1,0 +1,26 @@
+The soccer tactics page provides an analytical overview of the match between Pakistan and Afghanistan, focusing on various metrics that illustrate team performance and tactical arrangements.
+
+### Formations and Player Positions
+While specific formations are not directly stated, we can infer typical setups based on the statistics:
+
+- **Pakistan**: Likely employed a formation that emphasizes midfield control, possibly a 4-2-3-1 or 4-3-3, given their relatively high pass accuracy (82%) and ball possession (44%).
+- **Afghanistan**: May have utilized a more defensive or counter-attacking formation, potentially a 4-4-2 or 5-4-1, as indicated by their higher possession percentage (56%) and duels win rate (54%).
+
+### Team Shapes
+1. **Pakistan**:
+   - **First Half**: Struggled with possession (32%) but maintained a high pass accuracy (76%). This suggests they were more reactive, possibly defending in a compact shape and looking to counter.
+   - **Second Half**: Improved possession (61%) indicates a shift to a more attacking shape, likely pressing higher up the pitch.
+
+2. **Afghanistan**:
+   - **First Half**: Controlled the game with higher possession (68%), indicating a more fluid shape that allowed for buildup play.
+   - **Second Half**: Dropped in possession (39%), suggesting they may have adopted a more defensive posture to protect their lead.
+
+### Key Observations
+- **xG Dynamics**: Pakistan had a total of 1.29 xG compared to Afghanistan's 0.28, indicating that Pakistan created more quality chances, especially in the second half.
+- **Ball Possession**: Afghanistan maintained higher possession throughout the match, suggesting they were more proactive in controlling the game.
+- **Pass Accuracy**: Pakistan's pass accuracy improved in the second half, indicating better execution under pressure.
+- **Attacks per Minute**: Afghanistan had a higher rate of attacks (0.42) compared to Pakistan (0.28), reflecting their more aggressive approach, particularly in the first half.
+- **Pressing Intensity (PPDA)**: Pakistan's pressing intensity decreased in the second half (from 14.3 to 6.1), which may indicate a tactical shift to conserve energy or a response to Afghanistan's gameplay.
+
+### Conclusion
+The match statistics reveal that Pakistan initially struggled to maintain possession but adapted their strategy in the second half, leading to increased attacking opportunities. Afghanistan, while effective in the first half, appeared to retreat defensively as the game progressed. The tactical nuances highlight the dynamic nature of soccer, where formations and player roles can shift significantly throughout the match.

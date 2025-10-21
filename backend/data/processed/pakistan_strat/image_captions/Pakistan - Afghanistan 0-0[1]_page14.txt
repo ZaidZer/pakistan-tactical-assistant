@@ -1,0 +1,35 @@
+The soccer tactics page provides a visual representation of the passing dynamics between Pakistan and Afghanistan during their match on October 9, 2025. Here's a detailed breakdown of the formations, player positions, team shapes, and key observations:
+
+### Formations and Player Positions
+
+1. **Pakistan's Formation**:
+   - **Shape**: Pakistan appears to be arranged in a 4-3-3 formation, which is characterized by four defenders, three midfielders, and three forwards.
+   - **Defenders**: Positions 1 (GK), 2, 3, and 4 are likely the back line, with 1 being the goalkeeper.
+   - **Midfielders**: Positions 6, 8, and 11 play in the midfield, controlling both defensive and offensive transitions.
+   - **Forwards**: Positions 7, 9, and 10 are the attacking players, with 10 possibly playing a central role.
+
+2. **Afghanistan's Formation**:
+   - **Shape**: Afghanistan seems to adopt a more compact formation, possibly a 4-2-3-1 or 4-4-2, depending on their midfield and attacking structure.
+   - **Defenders**: Positions 12, 13, 15, and 16 form the defensive line.
+   - **Midfielders**: Positions 18 and 21 appear to be in central midfield roles, providing support to both defense and attack.
+   - **Forwards**: Positions 8, 9, and 10 suggest a more offensive setup with a lone striker supported by wingers.
+
+### Team Shapes and Dynamics
+
+- **Pakistan's Shape**: The team maintains width with the wingers (7 and 9) stretching the play, allowing the midfield (6, 8, 11) to control the center and create passing lanes. The back four (2, 3, 4, 1) provide a solid defensive base.
+  
+- **Afghanistan's Shape**: The Afghan team appears to be more compact, focusing on maintaining a strong central presence. Their midfielders (18 and 21) likely work to disrupt Pakistan's passing patterns, while the forwards (8, 9, 10) aim to exploit counter-attacking opportunities.
+
+### Key Observations
+
+- **Passing Combinations**: The graphic highlights the most frequent passing combinations, indicating that Pakistan relies heavily on midfielder 6 (E. Hussain) for ball distribution, as he has the most touches (41). This suggests he is pivotal in linking defense and attack.
+  
+- **Flow of Play**: The arrows indicate the flow of passes. Pakistan's passes predominantly move from the midfield to the forward line, suggesting an attempt to penetrate the Afghan defense. The size of the dots indicates the number of touches, with larger dots representing higher frequency of passes.
+
+- **Defensive Engagement**: Afghanistan's players seem to engage in pressing, particularly around the midfield, as indicated by the density of passes among their midfielders and forwards. This could create opportunities for quick transitions.
+
+- **Shape Changes**: As the game progresses, both teams may adjust their shapes based on possession. Pakistan may shift to a more aggressive stance when in possession, while Afghanistan might drop deeper to absorb pressure and hit on the break.
+
+### Conclusion
+
+Overall, the tactics page illustrates a strategic matchup between Pakistan and Afghanistan, with distinct formations and passing strategies. Pakistan focuses on width and midfield control, while Afghanistan adopts a more compact approach, emphasizing defensive solidity and counter-attacking opportunities. The dynamics of player positions and passing patterns are key to understanding the flow of the match.

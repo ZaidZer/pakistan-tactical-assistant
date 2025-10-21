@@ -1,0 +1,31 @@
+The soccer tactics page provides a detailed analysis of the match between Pakistan and Afghanistan, highlighting player positions, formations, and team shapes. Here’s a breakdown of the information:
+
+### Formations
+- **Pakistan:** Likely employed a 4-3-3 formation, which is common for teams aiming to balance offensive and defensive duties. The four defenders provide a solid backline, while three midfielders support both defense and attack, with three forwards pushing for goals.
+- **Afghanistan:** Also appears to use a 4-3-3 or similar formation, with a strong emphasis on midfield control and wing play.
+
+### Player Positions
+- **Pakistan:**
+  - **Goalkeeper:** Junaid Shah
+  - **Defenders:** Abdullah Iqbal, M. Ullah Afridi, E. Hussain, T. Shinwari
+  - **Midfielders:** A. Faraz Gulzari, Syed Abdullah Shah, Shayak Dost
+  - **Forwards:** Ali Uzair, Mohammad Umar Hayat, H. Zeb
+- **Afghanistan:**
+  - **Goalkeeper:** Habibullah
+  - **Defenders:** Mahboob Khelini, Amir Arazai, Mazid Kalyar, Murtaza Khuzyar
+  - **Midfielders:** Zahir Nazari, Samiullah Muk, Ebrahim Popalzy
+  - **Forwards:** Farid Sadiq, Omid Makrani, Jabir Shanzai
+
+### Team Shapes
+- **Pakistan:** The team shape indicates a compact midfield with an emphasis on pressing and regaining possession. The forwards likely aimed to stretch the opponent's defense, making runs into the channels.
+- **Afghanistan:** Their shape appears to be more fluid, possibly with a focus on quick transitions from defense to attack. The midfielders seem to play a pivotal role in linking the defense and attack.
+
+### Key Observations
+1. **Duels and Possession:** The duels map shows that Afghanistan won a higher percentage of duels (59%) compared to Pakistan (41%), suggesting they were more aggressive and effective in contested situations.
+2. **Field Zones:** The heatmap indicates where most duels occurred, with Afghanistan dominating the central and attacking thirds, while Pakistan struggled to maintain possession in these areas.
+3. **Player Contributions:** The player stats at the bottom show individual performances, with A. Faraz Gulzari and T. Shinwari contributing significantly to Pakistan's efforts, while Afghanistan's forwards, particularly Farid Sadiq, were active in the attacking phases.
+
+### Shape Changes
+- As the match progressed, both teams likely adjusted their shapes based on game situations. For instance, if Pakistan needed to chase the game, they might have pushed their midfielders higher up the pitch, while Afghanistan could have dropped deeper to protect their lead.
+
+In summary, the page provides a comprehensive look at the tactical setup of both teams, emphasizing the competitive nature of the match and the key areas where each team excelled or struggled.

@@ -1,0 +1,26 @@
+The soccer tactics page outlines various metrics and concepts related to player positions and team dynamics during a match. Here's a detailed description based on the information provided:
+
+### Formations and Player Positions
+1. **Average Positions**: This metric shows the average location of players based on their actions throughout the game. This can help identify formations such as 4-4-2, 4-3-3, or other configurations.
+
+2. **Player Roles**: The page mentions different types of passes (forward, lateral, smart, progressive) which suggest player roles. For instance, midfielders might be more involved in smart and progressive passes, while defenders focus on lateral passes.
+
+### Team Shapes
+- **Defensive Shape**: The opponent's defensive structure can be analyzed using metrics like PPDA (Opponent passes per defensive action), which indicates how aggressively they press. A low PPDA suggests a compact, organized defense.
+  
+- **Attacking Shape**: The attacking team’s formation can shift based on their possession strategies. For example, during a positional attack, players may spread out to create width, while during a counterattack, they might compress to exploit spaces left by the opponent.
+
+### Key Observations
+- **Transition Phases**: The definitions of transitions (low, medium, high) indicate how teams adapt when possession changes. For example, a quick transition from defense to attack can catch opponents off guard.
+
+- **Pass Types**: The metrics for different types of passes (deep completion, pass to final third) highlight how teams aim to penetrate the opponent's defense. A high number of progressive passes indicates a proactive attacking strategy.
+
+- **Duel Metrics**: The distinction between offensive and defensive duels provides insight into how teams engage with each other. A team that frequently wins offensive duels may dominate possession and create more scoring opportunities.
+
+### Dynamics of Pakistan vs. Opponent
+- **Pakistan's Arrangement**: Depending on their formation, Pakistan may adopt a compact shape when defending, transitioning to a more expansive formation when attacking. Their average positions will reflect their tactical approach, whether they favor possession or quick counterattacks.
+
+- **Opponent's Arrangement**: The opponent's shape will likely adjust based on Pakistan's actions. If Pakistan applies pressure, the opponent may drop deeper, while if Pakistan is disorganized, the opponent might exploit gaps with quick transitions and progressive passes.
+
+### Conclusion
+The tactics page provides a comprehensive look at how formations, player positions, and team shapes influence the flow of the game. By analyzing metrics like pass types, duels, and transitions, one can gain insights into the strategies employed by both Pakistan and their opponents, and how these strategies evolve throughout the match.

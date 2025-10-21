@@ -1,0 +1,34 @@
+The soccer tactics page provides a visual representation of the passing dynamics between Pakistan and Afghanistan during their match. Here's a detailed breakdown:
+
+### Formations and Player Positions
+1. **Pakistan's Formation**:
+   - The players are positioned in a way that suggests a formation likely around 4-2-3-1 or 4-3-3, focusing on a solid midfield presence.
+   - Key players involved in passing combinations are positioned centrally and on the wings, indicating a balanced approach to both defense and attack.
+
+2. **Afghanistan's Formation**:
+   - Afghanistan appears to employ a similar structure, possibly a 4-3-3, with an emphasis on width and quick transitions.
+   - The passing network shows a significant number of connections among the midfielders and forwards, indicating a fluid attacking style.
+
+### Team Shapes
+- **Pakistan**:
+  - The shape appears compact defensively, with a focus on retaining possession in the midfield. The midfielders frequently link with the forwards, suggesting an attempt to build play through the center.
+  - The backline is likely organized to provide support to the midfielders, ensuring stability when transitioning from defense to attack.
+
+- **Afghanistan**:
+  - The shape is more spread out, utilizing the flanks effectively. The wide players are actively involved in the passing game, indicating a strategy to stretch Pakistan's defense.
+  - The midfielders frequently connect with the forwards, creating multiple passing options and maintaining pressure.
+
+### Key Observations
+- **Passing Combinations**:
+  - The visual representation highlights several key passing combinations, particularly between certain players. For instance, player 10 (Mahboob Hanifi) shows a high number of connections, indicating a pivotal role in orchestrating play.
+  - The size of the dots in the passing map indicates the frequency of touches, with larger dots representing more involvement in the play.
+
+- **Possession Dynamics**:
+  - The percentages at the top (36% for Pakistan, 41% for Afghanistan) suggest that Afghanistan had a slight edge in possession, allowing them to dictate the tempo of the match.
+  - The passing network indicates that Afghanistan was more effective in creating multiple passing lanes, while Pakistan might have focused on fewer, but more strategic, combinations.
+
+- **Transition and Shape Changes**:
+  - Both teams likely underwent shape changes during transitions. When Pakistan lost possession, they appear to compact their shape to defend, while Afghanistan spread out to exploit the spaces.
+  - Conversely, during offensive phases, Pakistan's shape may have expanded to create width and depth in attack, while Afghanistan's players moved into more advanced positions to maintain pressure.
+
+Overall, the tactics page provides a comprehensive overview of how both teams organized themselves, their passing strategies, and how they adapted their shapes throughout the match.

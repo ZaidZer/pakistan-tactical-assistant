@@ -1,0 +1,31 @@
+The tactics page provides a detailed overview of the match between Pakistan and Afghanistan, focusing on shot statistics and player positions during the game.
+
+### Formations and Player Positions
+1. **Pakistan's Formation**: 
+   - While the exact formation isn't shown, the layout suggests a balanced structure, likely a 4-2-3-1 or 4-4-2, with players distributed across the midfield and defense to maintain shape.
+   - Key players like A. Faraz Gulzari and T. Shinwari are positioned to take shots from the edge of the box, indicating a focus on attacking from the midfield.
+
+2. **Afghanistan's Formation**:
+   - Similar to Pakistan, Afghanistan likely employed a compact formation, possibly a 4-3-3 or 4-2-3-1, to counter Pakistan’s attacks.
+   - Their defensive shape is inferred from the shot distribution, as they appear to have organized themselves to block central attacks while maintaining width.
+
+### Team Shapes and Changes
+- **Initial Shape**: 
+  - Both teams appear to start with a structured formation that allows for both defensive stability and offensive opportunities.
+  
+- **Changes in Shape**:
+  - As the game progresses, the shapes may shift based on possession. Pakistan, when in attack, likely pushes their full-backs higher up the pitch to create width, while Afghanistan may drop deeper to absorb pressure.
+  - The shot chart indicates that Pakistan had several attempts from various angles, suggesting they were trying to exploit gaps in Afghanistan's defense, particularly in the central areas.
+
+### Key Observations
+- **Shot Distribution**: 
+  - Pakistan had a total of 6 shots, with half on target, indicating a decent offensive effort but lacking in clinical finishing. The shots were distributed both wide and on goal, showing attempts from different positions.
+  
+- **Player Contributions**: 
+  - A. Faraz Gulzari appears to be a key player, with multiple shots taken, reflecting his role as a primary attacking threat.
+  - The xG (expected goals) metrics suggest that while Pakistan created opportunities, the quality of chances may not have been high enough to convert into goals.
+
+- **Defensive Strategies**: 
+  - Afghanistan’s defensive strategy likely involved maintaining a compact shape to limit space for Pakistan’s attackers, evidenced by the blocked shots and their overall defensive posture.
+
+In summary, the tactics page illustrates a competitive match where both teams employed structured formations and adapted their shapes based on the flow of the game, with Pakistan showing a slight edge in offensive attempts but struggling to convert those into goals.

@@ -1,0 +1,8 @@
+models:
+  text_extractor: "pymupdf"
+  embedder: "text-embedding-3-large"
+  vision_model: "qwen-vl-max"
+  reasoner: "gpt-4o"
+paths:
+  data_root: "./data/"
+  faiss_index: "./data/indexes/"

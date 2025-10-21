@@ -1,0 +1,38 @@
+To analyze the soccer tactics page for the match between Pakistan and Afghanistan, we can focus on the player positions, formations, and team shapes based on the passing statistics provided. 
+
+### Formations and Player Positions
+
+1. **Team Shape**:
+   - The formations for both teams are not explicitly mentioned, but we can infer player positions and their roles based on passing stats.
+   - Pakistan likely employed a formation that emphasizes midfield control, possibly a 4-3-3 or 4-2-3-1, allowing for a balance between defense and attack.
+   - Afghanistan may have used a similar structure or a more defensive 4-4-2 to counter Pakistan's attacking threats.
+
+2. **Key Player Positions**:
+   - **Maziar Kouhyar** and **Amid Arezou** are highlighted as key players with significant passing contributions, suggesting they play central roles in midfield or as wingers.
+   - Players like **Zelfy Nazary** and **Sharif Mukhamad** seem to be positioned on the flanks, likely tasked with providing width and delivering crosses into the box.
+   - **Omid Musawi** and **Jabar Sharza** appear to have defensive responsibilities, indicated by their passing accuracy and attempts to progress the ball.
+
+### Team Shapes and Dynamics
+
+1. **Offensive Shape**:
+   - Pakistan's offensive shape would likely see wingers stretching the play wide, creating space for central attackers to exploit.
+   - The presence of multiple forward passes from players like **Mahboob Hanifi** and **Omid Popalzai** indicates an intention to penetrate the opponent's defensive line.
+
+2. **Defensive Shape**:
+   - Both teams likely shifted into a compact defensive shape when not in possession, possibly a 4-4-2 or 4-2-3-1, with midfielders tracking back to support the defense.
+   - Players such as **Fareed Sadat** and **Hossein Zamani** may have played crucial roles in breaking up opposition attacks, as indicated by their passing statistics and defensive contributions.
+
+### Key Observations
+
+- **Passing Accuracy**:
+  - The passing accuracy percentages indicate a focus on maintaining possession and building play. For example, players like **Maziar Kouhyar** and **Omid Musawi** show high passing accuracy, suggesting they are pivotal in linking defense and attack.
+  
+- **Progressive Passing**:
+  - The stats for progressive passes suggest both teams attempted to move forward quickly, with players like **Jabar Sharza** and **Mahboob Hanifi** contributing significantly. This reflects a tactical approach aimed at transitioning from defense to attack efficiently.
+
+- **Substitutions Impact**:
+  - The substitutions (e.g., **Alireza Panahi** and **Yama Sherzad**) may have been tactical changes to either bolster the attack or shore up the defense, depending on the match situation.
+
+### Conclusion
+
+In summary, the tactical analysis of the match between Pakistan and Afghanistan reveals a structured approach from both teams, focusing on maintaining possession, utilizing width in attack, and compactness in defense. The player positions and passing statistics provide insight into how each team adapted their shapes throughout the match, highlighting key players who influenced the flow of the game.

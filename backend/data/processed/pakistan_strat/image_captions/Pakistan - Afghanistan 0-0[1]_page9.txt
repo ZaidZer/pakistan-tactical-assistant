@@ -1,0 +1,45 @@
+To analyze the soccer tactics from the match report between Pakistan and Afghanistan, we will focus on formations, player positions, team shapes, and key observations regarding how each team is arranged and how their shapes change during the game.
+
+### Formations and Player Positions
+
+1. **Pakistan's Formation**:
+   - **Shape**: Pakistan likely employed a 4-2-3-1 formation, which is common for teams aiming to balance defense and attack.
+   - **Defenders**: Four defenders, including two center-backs and two full-backs, providing a solid defensive base.
+   - **Midfielders**: Two defensive midfielders to protect the backline and facilitate transitions.
+   - **Attacking Midfielders**: Three players positioned ahead of the midfielders, likely tasked with creating chances and supporting the lone striker.
+   - **Striker**: A single forward leading the attack, responsible for finishing opportunities.
+
+2. **Afghanistan's Formation**:
+   - **Shape**: Afghanistan appears to have used a 4-3-3 formation, which emphasizes width and attacking options.
+   - **Defenders**: Similar to Pakistan, Afghanistan’s defense consists of four players.
+   - **Midfielders**: Three midfielders, possibly with one holding midfielder and two more advanced, focusing on ball control and link-up play.
+   - **Forwards**: Three forwards providing width and pace, likely aiming to stretch the defense and create space for midfield runs.
+
+### Team Shapes and Dynamics
+
+- **Pakistan's Shape**:
+  - The team likely adopts a compact shape when defending, with the midfielders dropping back to support the defense.
+  - In attack, the shape expands as the wingers push up and the attacking midfielder moves into advanced positions.
+  - The transition from defense to attack may involve quick ball movement through the midfielders to the wingers or the striker.
+
+- **Afghanistan's Shape**:
+  - Afghanistan’s shape may shift dynamically, maintaining width with their wingers while the midfielders support both defense and attack.
+  - In defense, they could compact to limit spaces, while in attack, they spread out to utilize the pace of their forwards.
+  - The midfielders may frequently interchange positions to create overloads in certain areas of the pitch.
+
+### Key Observations
+
+- **Player Contributions**:
+  - The statistics indicate varying levels of involvement from players, with some contributing significantly to duels and passing accuracy, which reflects their roles in the formation.
+  - Players like Maziar Kouhyar and Amid Arezou show higher minutes played and contributions in both duels and passing, indicating their importance in maintaining possession and creating chances.
+
+- **Set Pieces**:
+  - Both teams had opportunities from set pieces, which can be crucial in tightly contested matches. The statistics on free kicks and corners suggest strategic planning around these situations.
+
+- **Duels and Defensive Actions**:
+  - The number of duels won by players from both teams highlights the physical nature of the game. Players engaging in defensive duels are critical for regaining possession and disrupting the opponent's play.
+
+- **Shape Changes**:
+  - As both teams transition between defense and attack, their shapes likely alter. Pakistan may compact to defend and then spread to attack, while Afghanistan might maintain width in attack and adjust to a more compact shape when defending.
+
+Overall, the match report reflects a tactical battle between two teams with distinct approaches, with formations and player positions playing a crucial role in shaping the game's outcome.

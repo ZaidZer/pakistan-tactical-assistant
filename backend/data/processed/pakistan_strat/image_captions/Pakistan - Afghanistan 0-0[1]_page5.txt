@@ -1,0 +1,38 @@
+The match report provides a detailed statistical analysis of the soccer game between Pakistan and Afghanistan, focusing on various tactical elements. Here's a breakdown of the formations, player positions, team shapes, and key observations:
+
+### General Observations
+- **Goals and Expected Goals (xG)**: Both teams finished the match without scoring, with Pakistan having an xG of 1.29 compared to Afghanistan's 0.28, indicating Pakistan had better chances.
+- **Shots**: Pakistan took 28 shots with 6 on target, while Afghanistan had 42 shots with 6 on target. This suggests a more aggressive attacking approach from Afghanistan.
+
+### Formations and Player Positions
+- **Pakistan's Shape**: 
+  - Likely employed a 4-2-3-1 or similar formation, focusing on defensive solidity with two holding midfielders. This setup allows for quick transitions to attack, utilizing the wings.
+  - Key players are positioned to facilitate both defensive duties and quick counterattacks, particularly through the flanks.
+
+- **Afghanistan's Shape**: 
+  - Afghanistan may have used a 4-3-3 or 4-2-3-1 formation, emphasizing width and high pressing. This would allow them to exploit Pakistan's defensive lines and create overloads in wide areas.
+
+### Team Shapes and Changes
+- **Possession and Structure**: 
+  - Pakistan had 44% possession, indicating they were often on the back foot, likely defending deep and looking to counter. Their average possession duration was 0:11, showing quick transitions.
+  - Afghanistan held 56% possession, suggesting a more dominant presence in midfield and a focus on building up play.
+
+- **Attacking Shape**: 
+  - Pakistan's attacking shape likely shifted to a more aggressive 4-3-3 when in possession, with wingers pushing high and full-backs overlapping.
+  - Afghanistan's shape might have remained more fluid, with their midfielders frequently rotating to maintain pressure and create passing lanes.
+
+### Key Observations
+- **Defensive Actions**: 
+  - Pakistan made 20 clearances and had a higher number of interceptions (42) compared to Afghanistan (21). This indicates a strong defensive effort, particularly in blocking passes and disrupting play.
+  
+- **Transitions**: 
+  - Recoveries for Pakistan were at 66, showing their ability to regain possession quickly, while Afghanistan had 69 recoveries, indicating their pressing effectiveness.
+  
+- **Duel Statistics**: 
+  - Total duels won were fairly even, with Pakistan winning 41% of their duels compared to Afghanistan's 55%. This reflects Afghanistan's physicality and competitiveness in the match.
+
+- **Passing Efficiency**: 
+  - Pakistan had a total passing accuracy of 92%, with a significant number of progressive passes (55/79). Afghanistan, however, had a lower overall accuracy (71%), suggesting Pakistan may have been more effective in their passing under pressure.
+
+### Conclusion
+The tactical analysis indicates that Pakistan adopted a more defensive approach, focusing on counterattacks and solidifying their back line, while Afghanistan played a more aggressive and possession-based game. The match dynamics shifted frequently, with both teams adapting their shapes based on possession and pressing efforts.
