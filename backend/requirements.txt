@@ -1,10 +1,15 @@
 fastapi==0.115.0
 uvicorn==0.30.1
-openai==1.2.3
+
+# 🧠 Stable OpenAI + HTTPX combo (no 'proxies' bug)
+openai==1.1.1
+httpx==0.25.2
+httpcore==0.17.3
+
 faiss-cpu>=1.7.4,<2.0.0
 numpy==1.26.4
 pydantic==2.9.1
 python-dotenv==1.0.1
-pymupdf==1.24.10
+pymupdf==1.23.8
 Pillow==10.3.0
 requests==2.32.3
