@@ -16,8 +16,8 @@ export default function Home() {
     setAnswer("");
 
     try {
-      const res = await axios.post("http://localhost:8000/analyze", {
-        question: question,
+      const res = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/analyze`, 
+        {question,
       });
       setAnswer(res.data.answer || "No answer returned from backend.");
     } catch (err) {
