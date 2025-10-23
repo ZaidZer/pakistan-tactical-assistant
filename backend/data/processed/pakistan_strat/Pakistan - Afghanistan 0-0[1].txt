@@ -5,6 +5,7 @@ Afghanistan
 09/10/2025
 Asia. AFC Asian Cup Qualifiers
 3rd Round
+
 Starting lineup
 Substitutes
 Bench
@@ -148,6 +149,7 @@ M AT C H  S H E E T
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 2
+
 Pakistan
 1
 6
@@ -353,6 +355,7 @@ P O S I T I O N S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 3
+
 Ball possession, %
 Total
 1st half
@@ -714,6 +717,7 @@ M AT C H  DY N A M I C S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 4
+
 Goals
 0
 0
@@ -925,6 +929,7 @@ T E A M  S TAT S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 5
+
 2
 Mohammad Umar Hayat
 50'
@@ -1480,6 +1485,7 @@ P L AY E R  S TAT S
 Pakistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 6
+
 Passing
 2
 Mohammad Umar Hayat 50'
@@ -1770,6 +1776,7 @@ P L AY E R  S TAT S
 Pakistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 7
+
 Shots against
 Goal
 Save
@@ -1959,6 +1966,7 @@ G O A L K E E P E R  I N  M AT C H
 S. Hanif
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 8
+
 11
 Maziar Kouhyar
 99'
@@ -2483,6 +2491,7 @@ P L AY E R  S TAT S
 Afghanistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 9
+
 Passing
 11
 Maziar Kouhyar
@@ -2757,6 +2766,7 @@ P L AY E R  S TAT S
 Afghanistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 10
+
 Shots against
 Goal
 Save
@@ -3004,6 +3014,7 @@ G O A L K E E P E R  I N  M AT C H
 Ovays Azizi
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 11
+
 2
 3
 6
@@ -3099,6 +3110,7 @@ S H OT S
 Pakistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 12
+
 1
 2
 3
@@ -3179,6 +3191,7 @@ S H OT S
 Afghanistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 13
+
 Shows only combinations with more than 3 passes in one direction.
 Dot size corresponds to the number of touches.
 26%
@@ -3437,6 +3450,7 @@ PA S S E S
 Pakistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 14
+
 Shows only combinations with more than 3 passes in one direction.
 Dot size corresponds to the number of touches.
 36%
@@ -3661,6 +3675,7 @@ PA S S E S
 Afghanistan
 Pakistan 0 – 0 Afghanistan (09.10.2025)
 15
+
 41%
 59%
 AFGHANISTAN
@@ -3913,6 +3928,7 @@ D U E L S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 16
+
 Pakistan
 Player
 Last 5 matches
@@ -4265,6 +4281,7 @@ LO S S E S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 17
+
 Pakistan
 Player
 Last 5 matches
@@ -4517,6 +4534,7 @@ R E C O V E R I E S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 18
+
 Pakistan
 Player
 Last 5 matches
@@ -4734,6 +4752,7 @@ D R I B B L E S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 19
+
 Pakistan
 Player
 Last 5 matches
@@ -4860,6 +4879,7 @@ K E Y  PA S S E S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 20
+
 Pakistan
 Player
 Last 5 matches
@@ -4993,6 +5013,7 @@ C R O S S E S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 21
+
 Pakistan
 Player
 Last 5 matches
@@ -5173,6 +5194,7 @@ F O U L S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 22
+
 Pakistan
 Player
 Last 5 matches
@@ -5629,6 +5651,7 @@ G R O U N D  D U E L S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 23
+
 Pakistan
 Player
 Last 5 matches
@@ -5877,6 +5900,7 @@ A E R I A L  D U E L S
 ASIA. AFC ASIAN CUP QUALIFIERS (09.10.2025)
 Pakistan 0 – 0 Afghanistan
 24
+
 AVERAGE POSITIONS
 Players' positions are calculated as an average point of all actions where they
 touched the ball.

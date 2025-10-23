@@ -2,8 +2,15 @@ import numpy as np
 import faiss
 from openai import OpenAI
 from pathlib import Path
+from dotenv import load_dotenv
+import os
 
-client = OpenAI()
+load_dotenv()  # This loads variables from .env into environment
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+if not os.getenv("OPENAI_API_KEY"):
+    raise ValueError("❌ OPENAI_API_KEY not found. Make sure your .env file is in the project root.")
+
 
 # --- CONFIG ---
 CHUNK_SIZE = 1500  # words per chunk
@@ -87,3 +94,4 @@ def build_faiss_index(team_name: str):
 if __name__ == "__main__":
     build_faiss_index("pakistan_strat")
     build_faiss_index("myanmar_strat")
+

@@ -14,10 +14,14 @@ load_dotenv()
 # Initialize app
 app = FastAPI(title="Pakistan Tactical Assistant API", version="1.0")
 
-# Configure CORS (secure in prod)
+# Configure CORS — restrict in production
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # later restrict to your website domain
+    allow_origins=[
+        "http://localhost:3000",  # local frontend
+        "https://pakistan-tactical-assistant.vercel.app",  # example prod domain
+        "https://pakistan-tactical-assistant-2-0.onrender.com",  # backend itself
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -26,7 +30,7 @@ app.add_middleware(
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# Health check (for Render)
+# Health check
 @app.get("/")
 async def root():
     return {"status": "ok", "message": "API running successfully"}
