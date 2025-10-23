@@ -1,24 +1,33 @@
-# src/RAG.py
-from openai import OpenAI
+# backend/src/RAG.py
+import os
 import faiss
 import numpy as np
 from pathlib import Path
+from dotenv import load_dotenv
+from openai import AsyncOpenAI
 
-client = OpenAI()
+# --- Load environment variables early ---
+load_dotenv()
 
+# --- Initialize OpenAI client with key ---
+client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# --- Constants ---
 EMBED_MODEL = "text-embedding-3-large"
 LLM_MODEL = "gpt-4o"
 TOP_K = 5  # number of chunks to retrieve per team
 
 
-def embed_query(query: str):
-    """Embed the coach's question."""
-    resp = client.embeddings.create(model=EMBED_MODEL, input=query)
+# ---------- Embedding ----------
+async def embed_query(query: str):
+    """Embed the coach's question asynchronously."""
+    resp = await client.embeddings.create(model=EMBED_MODEL, input=query)
     return np.array(resp.data[0].embedding, dtype=np.float32)
 
 
+# ---------- Retrieval ----------
 def load_index(team_name: str):
-    """Load FAISS index for a team."""
+    """Load FAISS index for a given team."""
     index_path = Path(__file__).resolve().parents[1] / f"data/indexes/{team_name}_faiss.index"
     if not index_path.exists():
         raise FileNotFoundError(f"FAISS index not found for {team_name}")
@@ -31,8 +40,9 @@ def retrieve_chunks(index, query_vec, k=TOP_K):
     return indices[0], distances[0]
 
 
-def generate_advice(pakistan_ctx, myanmar_ctx, question):
-    """Reasoning LLM step: synthesize a tactical report."""
+# ---------- Reasoning ----------
+async def generate_advice(pakistan_ctx, myanmar_ctx, question):
+    """Use the LLM to generate tactical reasoning."""
     prompt = f"""
 You are an elite football tactical analyst.
 Use the provided match data and visuals to give coach-level advice.
@@ -52,7 +62,7 @@ Provide:
 3. Recommended strategies, shape, and press adjustments.
 4. Practical formation suggestions.
     """
-    resp = client.chat.completions.create(
+    resp = await client.chat.completions.create(
         model=LLM_MODEL,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.6,
@@ -60,19 +70,19 @@ Provide:
     return resp.choices[0].message.content
 
 
-def run_tactical_query(question: str):
+# ---------- Main orchestrator ----------
+async def run_tactical_query(question: str):
     """Orchestrates retrieval + reasoning for tactical queries."""
     print(f"\n[+] Embedding query: {question}")
-    q_vec = embed_query(question)
+    q_vec = await embed_query(question)
 
+    # Try loading indexes
     pk_index = None
     my_index = None
-
     try:
         pk_index = load_index("pakistan_strat")
     except FileNotFoundError:
         print("[!] Pakistan index not found.")
-
     try:
         my_index = load_index("myanmar_strat")
     except FileNotFoundError:
@@ -80,7 +90,7 @@ def run_tactical_query(question: str):
 
     if pk_index is None and my_index is None:
         print("[❌] No indexes available. Please run embeddings first.")
-        return
+        return "No tactical data available."
 
     pakistan_ctx = ""
     myanmar_ctx = ""
@@ -95,18 +105,21 @@ def run_tactical_query(question: str):
     print(f"[INFO] Retrieved available context.")
     print("[+] Generating tactical advice via GPT-4o...")
 
-    answer = generate_advice(pakistan_ctx, myanmar_ctx, question)
+    answer = await generate_advice(pakistan_ctx, myanmar_ctx, question)
 
     print("\n=================  Tactical Report  =================\n")
     print(answer)
     print("\n=====================================================\n")
 
-
     return answer
 
 
-# ✅ Ensure the function is actually called when you run the module
+# ✅ Local run support
 if __name__ == "__main__":
-    run_tactical_query(
-        "Analyze Pakistan’s current formation and suggest tactical adjustments to counter Myanmar’s wing play."
+    import asyncio
+
+    asyncio.run(
+        run_tactical_query(
+            "Analyze Pakistan’s current formation and suggest tactical adjustments to counter Myanmar’s wing play."
+        )
     )
