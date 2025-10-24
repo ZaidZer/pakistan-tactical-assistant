@@ -18,8 +18,8 @@ app = FastAPI(title="Pakistan Tactical Assistant API", version="1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:3000",  # local frontend
-        "https://pakistan-tactical-assistant.vercel.app",  # example prod domain
+        "http://localhost:3000",  # local dev
+        "https://pakistan-tactical-assistant-hudg.vercel.app",  # your actual Vercel site
         "https://pakistan-tactical-assistant-2-0.onrender.com",  # backend itself
     ],
     allow_credentials=True,
